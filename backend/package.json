@@ -14,7 +14,8 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.8.7",
-    "nodemailer": "^7.0.9"
+    "nodemailer": "^7.0.9",
+    "pro-todo-root": "file:.."
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
