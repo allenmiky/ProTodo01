@@ -29,11 +29,11 @@ Manage your daily tasks efficiently with drag & drop, categories, and a clean UI
 
  # My App Screenshots
  
- ## Login Screen
-![Login](screenshots/login.png)
+## Login Screen
+![Login](screenshots/Login.png)
 
 ## Dashboard
-![Dashboard](screenshots/main-app.png)
+![Dashboard](screenshots/Dashboard.png)
 
 
 ## ⚙️ Installation
