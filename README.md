@@ -34,9 +34,7 @@ Manage your daily tasks efficiently with drag & drop, categories, and a clean UI
    git clone https://github.com/allenmiky/ProTodo01.git
 
    cd ProTodo01
-
-   npm install
-
+   npm i
    npm run dev
 
 
