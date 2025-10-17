@@ -27,6 +27,15 @@ Manage your daily tasks efficiently with drag & drop, categories, and a clean UI
 
 ---
 
+ # My App Screenshots
+ 
+ ## Login Screen
+![Login](screenshots/login.png)
+
+## Dashboard
+![Dashboard](screenshots/main-app.png)
+
+
 ## ⚙️ Installation
 
  Clone the repo:
@@ -37,6 +46,4 @@ Manage your daily tasks efficiently with drag & drop, categories, and a clean UI
  >> npm run npm install
  >> npm run install-all
  >> npm run dev
-
-
 
