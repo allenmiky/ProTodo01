@@ -33,9 +33,10 @@ Manage your daily tasks efficiently with drag & drop, categories, and a clean UI
    ```bash
    git clone https://github.com/allenmiky/ProTodo01.git
 
-   cd ProTodo01
-   npm i
-   npm run dev
+ >> cd ProTodo01
+ >> npm run npm install
+ >> npm run install-all
+ >> npm run dev
 
 
 
