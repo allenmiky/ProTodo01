@@ -16,7 +16,7 @@ import TaskDescription from "./components/TaskDescription";
 
 
 export default function MainContent() {
- const [user, setUser] = useState(() => {
+  const [user, setUser] = useState(() => {
     try {
       const saved = localStorage.getItem("user");
       return saved && saved !== "undefined" ? JSON.parse(saved) : null;
@@ -623,12 +623,6 @@ export default function MainContent() {
             darkMode={dark}
           />
 
-           <Router>
-    <Routes>
-      <Route path="/" element={<MainApp />} />
-      <Route path="/reset-password/:token" element={<ResetPassword />} />
-    </Routes>
-  </Router>
         </main>
       </div>
     </div>
