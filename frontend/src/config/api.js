@@ -1,8 +1,8 @@
 // src/config/api.js
 import axios from "axios";
 
-// ✅ Correct API Base URL - without /api at the end
-const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+// ✅ Aapka backend URL directly use karo
+const API_BASE = import.meta.env.VITE_API_URL || "https://protodobackend-production.up.railway.app";
 
 const API = axios.create({
   baseURL: API_BASE,
