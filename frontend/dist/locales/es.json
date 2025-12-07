@@ -1,0 +1,21 @@
+{
+  "addTask": "Añadir Tarea",
+  "editTask": "Editar Tarea",
+  "title": "Título",
+  "desc": "Descripción",
+  "due": "Fecha y Hora",
+  "status": "Estado",
+  "todo": "Por Hacer",
+  "inprogress": "En Progreso",
+  "done": "Hecho",
+  "addSub": "Añadir Sub-tarea",
+  "addCustom": "Añadir Estado Personalizado",
+  "update": "Actualizar Tarea",
+  "add": "Añadir Tarea",
+  "statusChangeHistory": "Historial de Cambios",
+  "noHistory": "Sin historial aún.",
+  "enterTitle": "Introduce el título",
+  "enterDetails": "Introduce los detalles",
+  "subtask": "Sub-tarea",
+  "nestedSubtask": "Sub-tarea anidada"
+}

@@ -1,0 +1,21 @@
+{
+  "addTask": "Aggiungi Compito",
+  "editTask": "Modifica Compito",
+  "title": "Titolo",
+  "desc": "Descrizione",
+  "due": "Data & Ora",
+  "status": "Stato",
+  "todo": "Da Fare",
+  "inprogress": "In Corso",
+  "done": "Completato",
+  "addSub": "Aggiungi Sotto-compito",
+  "addCustom": "Aggiungi Stato Personalizzato",
+  "update": "Aggiorna Compito",
+  "add": "Aggiungi",
+  "statusChangeHistory": "Cronologia Cambi Stato",
+  "noHistory": "Nessuna cronologia ancora.",
+  "enterTitle": "Inserisci titolo",
+  "enterDetails": "Inserisci dettagli",
+  "subtask": "Sotto-compito",
+  "nestedSubtask": "Sotto-compito annidato"
+}

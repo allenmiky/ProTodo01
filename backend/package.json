@@ -1,0 +1,36 @@
+{
+  "name": "pro-todo-backend",
+  "version": "1.0.0",
+  "description": "Backend for ProTodo App",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npx kill-port 5000 && nodemon server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.13.3",
+    "axios": "^1.13.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.8.7",
+    "nodemailer": "^7.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "keywords": [
+    "todo",
+    "backend",
+    "express",
+    "mongodb"
+  ],
+  "author": "allen miky",
+  "license": "ISC"
+}

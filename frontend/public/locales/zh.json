@@ -1,0 +1,21 @@
+{
+  "addTask": "添加任务",
+  "editTask": "编辑任务",
+  "title": "标题",
+  "desc": "描述",
+  "due": "截止日期和时间",
+  "status": "状态",
+  "todo": "待办",
+  "inprogress": "进行中",
+  "done": "已完成",
+  "addSub": "添加子任务",
+  "addCustom": "添加自定义状态",
+  "update": "更新任务",
+  "add": "添加任务",
+  "statusChangeHistory": "状态更改历史",
+  "noHistory": "还没有历史记录。",
+  "enterTitle": "输入标题",
+  "enterDetails": "输入详情",
+  "subtask": "子任务",
+  "nestedSubtask": "嵌套子任务"
+}

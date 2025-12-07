@@ -1,0 +1,21 @@
+{
+  "addTask": "Adicionar Tarefa",
+  "editTask": "Editar Tarefa",
+  "title": "Título",
+  "desc": "Descrição",
+  "due": "Data & Hora",
+  "status": "Estado",
+  "todo": "A Fazer",
+  "inprogress": "Em Progresso",
+  "done": "Concluído",
+  "addSub": "Adicionar Sub-tarefa",
+  "addCustom": "Adicionar Estado Personalizado",
+  "update": "Atualizar Tarefa",
+  "add": "Adicionar",
+  "statusChangeHistory": "Histórico de Mudanças",
+  "noHistory": "Nenhum histórico ainda.",
+  "enterTitle": "Insira o título",
+  "enterDetails": "Insira os detalhes",
+  "subtask": "Sub-tarefa",
+  "nestedSubtask": "Sub-tarefa aninhada"
+}

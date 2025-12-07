@@ -1,0 +1,21 @@
+{
+  "addTask": "Add Task",
+  "editTask": "Edit Task",
+  "title": "Title",
+  "desc": "Description",
+  "due": "Due Date & Time",
+  "status": "Status",
+  "todo": "To Do",
+  "inprogress": "In Progress",
+  "done": "Done",
+  "addSub": "Add Subtask",
+  "addCustom": "Add Custom Status",
+  "update": "Update Task",
+  "add": "Add Task",
+  "statusChangeHistory": "Status Change History",
+  "noHistory": "No history yet.",
+  "enterTitle": "Enter title",
+  "enterDetails": "Enter details",
+  "subtask": "Subtask",
+  "nestedSubtask": "Nested subtask"
+}

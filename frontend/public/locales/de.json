@@ -1,0 +1,21 @@
+{
+  "addTask": "Aufgabe Hinzufügen",
+  "editTask": "Aufgabe Bearbeiten",
+  "title": "Titel",
+  "desc": "Beschreibung",
+  "due": "Fälligkeitsdatum & Zeit",
+  "status": "Status",
+  "todo": "Zu Tun",
+  "inprogress": "In Bearbeitung",
+  "done": "Erledigt",
+  "addSub": "Unteraufgabe Hinzufügen",
+  "addCustom": "Benutzerdefinierten Status Hinzufügen",
+  "update": "Aufgabe Aktualisieren",
+  "add": "Hinzufügen",
+  "statusChangeHistory": "Statusänderungsverlauf",
+  "noHistory": "Noch kein Verlauf.",
+  "enterTitle": "Titel eingeben",
+  "enterDetails": "Details eingeben",
+  "subtask": "Unteraufgabe",
+  "nestedSubtask": "Verschachtelte Unteraufgabe"
+}
